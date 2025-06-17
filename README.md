@@ -37,9 +37,8 @@ pizza-sales-analysis/
 1. What are the total sales, orders, and average order value?
 2. Which pizzas, categories, and sizes are the most profitable?
 3. What is the sales trend over time (daily, monthly)?
-4. **Which day of the week receives the most orders?**
-5. What are the busiest hours for sales?
-6. Are there seasonal or time-based patterns in customer orders?
+4. What are worst and top items?
+5. Are there seasonal or time-based patterns in customer orders?
 
 ---
 
@@ -56,10 +55,9 @@ pizza-sales-analysis/
 ## 🧠 Insights Derived
 
 - **Friday had the highest number of orders**, suggesting strong weekend demand.
-- **Revenue peaked** in December, indicating seasonal demand increase.
-- **Lunch and dinner hours** had the most orders placed.
+- **Revenue peaked** in July, indicating seasonal demand increase.
 - **Classic and Supreme pizzas** drove the highest revenue.
-- **Medium size pizzas** were the most popular among customers.
+- **Large size pizzas** were the most popular among customers.
 
 ---
 
